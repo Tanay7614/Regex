@@ -12,6 +12,7 @@ class RegexTestTest {
 	{
 		 RegexTest regex=new  RegexTest();
 		 regex.validateFirstName("Tanay");
+		 regex.validateFirstName("Tanay");
 		
 	}
 
